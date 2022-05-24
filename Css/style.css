@@ -1,0 +1,59 @@
+* {
+    margem :  0 ;
+    preenchimento :  0 ;
+    box-sizing : border-box;
+    tamanho da fonte :  22px ;
+    font-family :  'Franklin Gothic Medium' ,  'Arial Narrow' , Arial , sans-serif;
+}
+
+corpo {
+    text-align : centro;
+    cor de fundo : bisque;
+    cor : preto;
+}
+
+li {
+    estilo de lista : nenhum;
+}
+
+# recipiente {
+    largura :  290px ; _
+    text-align : centro;
+    altura : automático;
+    margem :  4 px automático;
+}
+
+# calculadora {
+    largura :  234px ; _
+    altura :  230px ; _
+    margem :  0 automático;
+    preenchimento :  2px ; _
+    cor de fundo :  # 6b6e6c ;
+}
+
+. valor de entrada {
+    margem :  8 px automático;
+    largura :  95 % ;
+    altura :  30px ; _
+    tamanho da fonte :  16 px ;
+    estouro : oculto;
+    text-align : direita;
+    cor :  # 48484d ;
+    preenchimento :  4px ; _
+    cor de fundo :  # fff ;
+    box-shadow : inserir -1 px  -1 px  4 px  1 px  # eee ;
+}
+
+. chave  li {
+    largura :  50px ; _
+    altura :  30px ; _
+    raio da borda :  3 px ;
+    cor :  #fff ; _
+    cor de fundo :  # 6c73fa ;
+    cursor : ponteiro;
+    flutuar : esquerda;
+    margem :  0 px  -3 px  5 px  8 px ;
+    altura da linha :  30 px ;
+    text-align : centro;
+    box-shadow :  0 px  3 px  1 px  0 px ;
+}
